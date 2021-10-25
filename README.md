@@ -1,11 +1,11 @@
 # SF-36
-Questionário adaptado e em português para mensurar a qualidade de vida em pacientes.
+Cuestionario adaptado y en español para medir la calidad de vida en los pacientes..
 
 # Demo online
-Caso deseja ter acesso a demo online, https://williamcastro.github.io/sf36/
+Enlace a demo, https://uell-doc.github.io/sf36/
 
-# Sobre o projeto
-Em meados de 2012, desenvolvi este formulário utilizando HTML, CSS e Javascript para facilitar a aplicação e cálculos no trabalho desenvolvido pela minha irmã. Alguns projetos de pesquisa já o utilizaram para facilitar o trabalho manual inerente a aplicação deste questionário. Com objetivo de tornar a informação acessível para mais pessoas, estou disponibilizando o código, ainda que não esteja tão limpo como poderia estar, sendo desenvolvido hoje. Ainda assim pode ter grande valor e servir para alavancar o trabalho de outras pessoas numa área tão importante da saúde.
+# Sobre el proyecto
+Con el fin de hacer que la información sea accesible a más personas, estoy haciendo que el código esté disponible, incluso si no es tan limpio como podría ser, que se está desarrollando hoy. Sin embargo, puede tener un gran valor y servir para aprovechar el trabajo de otros en un área tan importante de la salud.
 
 
 
